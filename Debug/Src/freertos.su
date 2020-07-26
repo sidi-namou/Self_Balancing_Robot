@@ -1,0 +1,6 @@
+freertos.c:212:6:StartDefaultTask	32	static
+freertos.c:264:6:SaveTask	32	static
+freertos.c:343:6:Synchro_Avec_UART	464	static
+freertos.c:117:13:vApplicationStackOverflowHook	8	static
+freertos.c:129:13:vApplicationMallocFailedHook	8	static
+freertos.c:151:6:MX_FREERTOS_Init	80	static

@@ -1,0 +1,5 @@
+MotorDriver_port.c:25:6:MotorDriver_Port_GPIO_Init	8	static
+MotorDriver_port.c:45:6:MotorDriver_Port_PWM_Init	8	static
+MotorDriver_port.c:63:6:MotorDriver_Port_SetPin_IN1	0	static
+MotorDriver_port.c:76:6:MotorDriver_Port_SetPin_IN2	0	static
+MotorDriver_port.c:89:6:MotorDriver_Port_SetPWM	0	static
